@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad ijaz</h1>
-<h3 align="center">i love to code Machine Learning & Computer Vision model and implement it on Web .</h3>
+<h3 align="center">i am a Senior Laravel developer, beside that, i love to code Machine Learning & Computer Vision models and implement them on Web .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ijazcrt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ijazcrt" /> </p>
 
